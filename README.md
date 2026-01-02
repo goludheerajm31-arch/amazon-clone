@@ -8,10 +8,10 @@ This project focuses on learning **CSS layouts, flexbox, positioning, and respon
 
 ---
 
-## 🔗 Live Demo
-👉 https://your-username.github.io/amazon-clone/
 
-*(Replace with your actual GitHub Pages link)*
+## 🔗 Live Demo
+👉 [Click here to view the project](https://goludheerajm31-arch.github.io/amazon-clone/)
+
 
 ---
 
@@ -33,7 +33,7 @@ This project focuses on learning **CSS layouts, flexbox, positioning, and respon
 
 ---
 
-##🧠 What I Learned
+## 🧠 What I Learned
 HTML semantic structure
 CSS Flexbox & layout alignment
 Image backgrounds & positioning
@@ -43,14 +43,14 @@ UI cloning from real-world websites
 ---
 
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is created only for learning and educational purposes.
 Amazon name and branding belong to Amazon Inc.
 
 ---
 
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Dheeraj
-Engineering Student | Frontend Learner
-📧 GitHub: https://github.com/your-username
+
+---
